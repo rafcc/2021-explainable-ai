@@ -1,7 +1,7 @@
 # 2021-explainable-ai
 This project provides supplementary code for academic paper.
 ##
-The procedure:
+Procedure:
 - fill all paths in ae_main.py    
 - activate anaconda env using aetf1.yml  
 - run ae_main.py    
