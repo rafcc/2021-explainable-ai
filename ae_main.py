@@ -138,16 +138,16 @@ es,ds = model(es_inp,w_enc_es,b_enc_es,w_dec_ds,b_dec_ds)
 # Cost Function basic term
 cross_entropy1 = -1. * x1 * tf.log(d1) - (1. - x1) * tf.log(1. - d1)
 cross_entropy2 = -1. * x2 * tf.log(d2) - (1. - x2) * tf.log(1. - d2)
-cross_entropy3 = -1. * x3 * tf.log(d3) - (1. - x3) * tf.log(1. - d3)
+# cross_entropy3 = -1. * x3 * tf.log(d3) - (1. - x3) * tf.log(1. - d3)
 cross_entropyds =  -1. * x123 * tf.log(ds) - (1. - x123) * tf.log(1. - ds)
 
 # reg term
-#lossreg =-1. * reg123 * tf.log(es) - (1. - reg123) * tf.log(1. - es)               
+# lossreg =-1. * reg123 * tf.log(es) - (1. - reg123) * tf.log(1. - es)               
 lossreg = tf.square(es - reg123)
 
 loss1 = tf.reduce_mean(cross_entropy1)
 loss2 = tf.reduce_mean(cross_entropy2)
-loss3 = tf.reduce_mean(cross_entropy3) 
+# loss3 = tf.reduce_mean(cross_entropy3) 
 lossds = tf.reduce_mean(cross_entropyds)
 
 
