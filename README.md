@@ -7,4 +7,5 @@ Procedure:
 - activate anaconda env using aetf1.yml  
 - run ae_main.py    
 - training and inference process begin and graph chart diagrams are obtained
+- graph chart diagrams obtained by one trial is 
 - polygon_roc.py evaluate graph chart diagrams and output abnormality scores
