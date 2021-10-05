@@ -1,6 +1,6 @@
 # 2021-explainable-ai
 This project provides supplementary code for academic paper.
-Barcode-like timeline data is obtained from [here](https://github.com/rafcc/2020-prenatal-sono)    
+The source code for barcode-like timeline is available at [here](https://github.com/rafcc/2020-prenatal-sono)    
 ##
 Procedure:
 - fill all paths in ae_main.py    
