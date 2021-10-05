@@ -6,4 +6,5 @@ Procedure:
 - fill all paths in ae_main.py    
 - activate anaconda env using aetf1.yml  
 - run ae_main.py    
-- training and inference process begin
+- training and inference process begin and graph chart diagrams are obtained
+- polygon_roc.py evaluate graph chart diagrams and output abnormality scores
