@@ -4,7 +4,7 @@ The source code for barcode-like timeline is available at [https://github.com/ra
 ##
 Procedure:
 - process fetal heart screening videos using [SONO](https://www.mdpi.com/2076-3417/11/1/371) (tiny samples are provided in barcodeliketimeline_samples.zip)
-- fill all paths in ae_main.py    
+- fill all pathes in ae_main.py    
 - activate anaconda env using aetf1.yml  
 - run ae_main.py    
 - training and inference process begin and graph chart diagrams are obtained
