@@ -3,7 +3,7 @@ This project provides supplementary code for academic paper.
 The source code for barcode-like timeline is available at [https://github.com/rafcc/2020-prenatal-sono](https://github.com/rafcc/2020-prenatal-sono) 
 
 ## Souce data
-Source data for all tables and figures are souce_data.xlsx
+Source data for all tables and figures are souce_data.zip
 
 ## Source code
 Procedure:
