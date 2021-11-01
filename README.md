@@ -13,4 +13,3 @@ Procedure:
 - run ae_main.py    
 - training and inference process begin and graph chart diagrams are obtained
 - graph chart diagrams obtained by one trial are provided in chd_output_main_results.zip and normal_output_main_results.zip
-- polygon_roc.py evaluates graph chart diagrams and outputs abnormality scores
