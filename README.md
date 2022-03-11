@@ -1,5 +1,5 @@
 # 2021-explainable-ai
-This project provides supplementary code for [https://www.mdpi.com/2227-9059/10/3/551]("Medical Professional Enhancement Using Explainable Artificial Intelligence in Fetal Cardiac Ultrasound Screening").
+This project provides supplementary code for ["Medical Professional Enhancement Using Explainable Artificial Intelligence in Fetal Cardiac Ultrasound Screening"](https://www.mdpi.com/2227-9059/10/3/551).
 The source code for barcode-like timeline is available at [https://github.com/rafcc/2020-prenatal-sono](https://github.com/rafcc/2020-prenatal-sono) 
 
 ## Souce data
